@@ -1,4 +1,5 @@
-Pharmacy Management System
+Pharmacy Management System     
+
 A comprehensive GUI-based pharmacy management application built with Java Swing. This system provides an intuitive interface for managing pharmacy operations including inventory, sales, billing, customer records, and supplier management.
 
 📋 Features
